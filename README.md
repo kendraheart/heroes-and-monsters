@@ -1,14 +1,16 @@
 # Heroes and Monsters - Java Game
-> A single-player and console based combat game in Java where you must battle against a computer opponent on a 6x6 grid (live demo here soon)
+> A single-player console based combat game in Java where you must battle against a computer opponent on a 6x6 grid                          
+(live demo here soon)
 
 ## Table of Contents
-* [General Info](##general-information)
+* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Project Status](#project-status)
-* [Room for Improvement](##room-for-improvement)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
 
 
 
@@ -50,3 +52,6 @@ Room for improvement:
 To do:
 - Finish final fae character
 - Add unique fae healing and/or combat ability
+
+## Acknowledgements
+- This project was inspried by a course assignment. This project has been redesigned and extended upon by myself.
